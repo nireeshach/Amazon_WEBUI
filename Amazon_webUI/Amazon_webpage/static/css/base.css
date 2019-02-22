@@ -1,0 +1,92 @@
+.highlight-value
+{
+    background-color: #95BFF7;
+}
+
+/* .main-div{
+    margin-left: 160px; /* Same as the width of the sidenav */
+    /* font-size: 15px; /* Increased text to enable scrolling */
+    /* padding: 0px 15px; */
+
+
+.main{
+
+    margin-left: 160px; /* Same as the width of the sidenav */
+    font-size: 15px; /* Increased text to enable scrolling */
+    padding: 0px 15px;
+}
+
+.highlight-predict-value
+{
+    background-color: rgb(51, 240, 76);
+}
+
+.highlight-features
+{
+    background-color: #808080;
+}
+
+
+.legend { list-style: none; }
+.legend li { float: left; margin-right: 10px; }
+.legend span { border: 1px solid #ccc; float: left; width: 12px; height: 12px; margin: 2px; }
+
+td, th {
+    padding: 1px 4px;
+}
+
+.bar {
+    fill: #5f89ad;
+}
+
+.axis {
+    font-size: 13px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    display: none;
+}
+
+.label {
+    font-size: 13px;
+}
+.p{
+    font-size: 3px;
+
+}
+.stars{
+    /* font-size: 15px; Increased text to enable scrolling */
+    font-size: 1.20em;
+    /* width:200px; /* or whatever width you want. */
+    /* max-width:200px; */
+}
+.arrow{
+    font-size: 50px;
+    margin-left: 160px;
+    content: "\2193";
+
+
+}
+
+.arrow-down-green {
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+
+  border-top:20px solid rgb(10, 82, 10);
+
+
+}
+
+.arrow-up-red {
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+
+  border-bottom: 20px solid #f00;
+}
+

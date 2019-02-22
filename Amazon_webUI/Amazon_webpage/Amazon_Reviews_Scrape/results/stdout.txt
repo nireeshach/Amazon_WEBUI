@@ -1,0 +1,21 @@
+Started getting reviews for the Product: https://www.amazon.com/dp/B07HMQPY65/
+Started process to get product meta deta
+Started process to get product reviews from url: http://www.amazon.com/WINTORY-Headset-Headphones-Cancelling-Compatible/product-reviews/B07HMQPY65/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Scraped 10 product reviews
+Sleeping for 5 seconds.
+
+Started process to get product reviews from url: http://www.amazon.com/WINTORY-Headset-Headphones-Cancelling-Compatible/product-reviews/B07HMQPY65/ref=cm_cr_arp_d_paging_btm_2?ie=UTF8&pageNumber=2&reviewerType=all_reviews
+Scraped 10 product reviews
+Sleeping for 5 seconds.
+
+Started process to get product reviews from url: http://www.amazon.com/WINTORY-Headset-Headphones-Cancelling-Compatible/product-reviews/B07HMQPY65/ref=cm_cr_arp_d_paging_btm_3?ie=UTF8&pageNumber=3&reviewerType=all_reviews
+Scraped 10 product reviews
+Sleeping for 5 seconds.
+
+Started process to get product reviews from url: http://www.amazon.com/WINTORY-Headset-Headphones-Cancelling-Compatible/product-reviews/B07HMQPY65/ref=cm_cr_arp_d_paging_btm_4?ie=UTF8&pageNumber=4&reviewerType=all_reviews
+Scraped 10 product reviews
+Sleeping for 5 seconds.
+
+Started process to get product reviews from url: http://www.amazon.com/WINTORY-Headset-Headphones-Cancelling-Compatible/product-reviews/B07HMQPY65/ref=cm_cr_arp_d_paging_btm_5?ie=UTF8&pageNumber=5&reviewerType=all_reviews
+Scraped 3 product reviews
+Total Time taken for script to complete: 0:00:22.565346, Scraped Reviews: 43
