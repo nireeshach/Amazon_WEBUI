@@ -14,6 +14,8 @@ Create python virtualenv in .venv directory in the cloned directory. You can use
 
  1.python -m venv ".venv"
  2. source .venv/bin/activate (to activate the virtualenv)
+ 
+ 
 Install dependencies given in "requirements.txt" file. You can use the command below to install all the dependencies in one shot. * pip install -r requirements.txt
 
 We are using "gunicorn" as web server to bringup the web UI. Gunicorn is a Python Web Server Gateway Interface (WSGI) HTTP server. You can run the command below to access the UI from the browser, using localhost or system ip and the port mentioned in command.
@@ -21,6 +23,8 @@ We are using "gunicorn" as web server to bringup the web UI. Gunicorn is a Pytho
  		i. gunicorn -b 0.0.0.0:port main:app --timeout 360
  	       Example: gunicorn -b 0.0.0.0:5000 main:app --timeout 360
  	      By running the command above, you should be able to access the UI from "localhost:5000" or "machine-ip:5000"
+        
+        
 You can also run gunicorn instance as daemon, by running the command below gunicorn -b 0.0.0.0:port main:app --workers=1 --timeout 360 --daemon
 
 Note: You need to run the above command from the same directory of "main.py" file.
